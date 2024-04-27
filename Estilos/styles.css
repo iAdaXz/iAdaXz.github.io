@@ -1,0 +1,15 @@
+body{
+    background-image: url("/imagenes/images (1).jpeg");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    color: black;
+}
+
+@media screen and (max-width: 2500px){
+    body{
+        height: 100%;
+    }
+    
+}
